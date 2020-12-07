@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9d4318db74b34a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d04dfffb6a40ba",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd4fc376a00dd13",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb62c256d46019e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b221aacf7a7c7d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d12359527d2b4b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aeaea9c90b006c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7147f345c81e4883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4a2148c272818c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "兴趣/Meta Trader 5.md",
+    "思考/思考方法.md",
+    "方法论/SMART.md",
+    "方法论/SMART原则.md",
+    "思考/执行方面.md",
+    "思考/升层思维.md",
+    "思考/沟通方法.md",
+    "方法论/Untitled.md",
+    "思考/成长.md",
+    "工作/各种架构图.md"
+  ]
+}
