@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d04dfffb6a40ba",
+        "id": "f143e47de0bacaa9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "工具/Obsidian.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "学习/Untitled.md",
     "Untitled.md",
+    "工作/各种架构图.md",
+    "方法论/金字塔原理.md",
+    "方法论/Untitled.md",
+    "方法论/MECE.md",
     "兴趣/Meta Trader 5.md",
     "思考/思考方法.md",
     "方法论/SMART.md",
-    "方法论/SMART原则.md",
-    "思考/执行方面.md",
-    "思考/升层思维.md",
-    "思考/沟通方法.md",
-    "方法论/Untitled.md",
-    "思考/成长.md"
+    "方法论/SMART原则.md"
   ]
 }
